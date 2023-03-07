@@ -1,8 +1,7 @@
 ## Seja bem vindo(a) ao meu github! Aqui você vai achar alguns de meus projetos e estudos.
 
-- Desenvolvedora de front end junior;
-- Atualmente estou cursando o 2 ano do ensino médio técnico;
-- Amante nata de desing gráfico e derivados :).
+- Desenvolvedora e Designer jr;
+- Atualmente estou cursando o 3 ano do ensino médio técnico.
 
 
 
